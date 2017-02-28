@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Exec=ubuntu-webapp
+Name=Ubuntu
+Icon=${SNAP}/meta/gui/ubuntu.png
+X-Ubuntu-Touch=true
+X-Ubuntu-Single-Instance=true
+X-Ubuntu-Default-Department-ID=internet
