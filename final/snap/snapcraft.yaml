@@ -14,8 +14,6 @@ apps:
       - browser-sandbox
       - network
       - opengl
-      - pulseaudio
-      - screen-inhibit-control
       - unity7
 
 plugs:
